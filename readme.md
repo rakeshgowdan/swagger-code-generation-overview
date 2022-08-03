@@ -1,4 +1,5 @@
-https://medium.com/@ankithahjpgowda/api-code-generation-using-swagger-in-springboot-e6b2fafc583c
+# SWAGGER CODEGEN
+https://github.com/swagger-api/swagger-codegen/
 
 
 
